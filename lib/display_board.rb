@@ -1,8 +1,5 @@
 def display_board
-puts "         |   |
-      -----------
-         |   |
-      -----------
-         |   |      "
+puts "   |   |   /n-----------/n   |   |   /n-----------/n   |   |   "
+
 end
 display_board
